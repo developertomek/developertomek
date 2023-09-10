@@ -1,6 +1,7 @@
 [<img src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/wisniewski-tomasz/)
 [<img src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/developertomek/)
 [<img src="https://img.shields.io/badge/instagram-ff69b4.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/developertomek/)
+[<img src="https://img.shields.io/badge/twitter-black.svg?&style=for-the-badge&logo=x&logoColor=white" />](https://www.twitter.com/developertomek/)
 
 
 ### Hi there 👋, I'm Tomek
