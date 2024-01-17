@@ -12,7 +12,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://github.com/developertomek/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=flat-square&logo=typescript&logoColor=007ACC)](https://github.com/developertomek/)
-[![Python](https://img.shields.io/badge/Python-323330?style=flat-square&logo=python&logoColor=14354C)](https://github.com/developertomek/)
+[![Python](https://img.shields.io/badge/Python-323330?style=flat-square&logo=python&logoColor=007ACC)](https://github.com/developertomek/)
 ---
 
 [![Angular](https://img.shields.io/badge/Angular-323330?style=flat-square&logo=angular&logoColor=DD0031)](https://github.com/developertomek/)
