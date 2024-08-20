@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-323330?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/developertomek/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-323330?style=flat-square&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/wisniewski-tomasz/)
-[![Twitter](https://img.shields.io/badge/Twitter-323330?style=flat-square&logo=twitter&logoColor=1DA1F2)](https://www.twitter.com/developertomek/)
+[![Twitter](https://img.shields.io/badge/Twitter-323330?style=flat-square&logo=x&logoColor=1DA1F2)](https://www.twitter.com/developertomek/)
 
 
 - 🏢 Software Developer
