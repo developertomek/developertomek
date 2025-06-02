@@ -11,7 +11,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://github.com/developertomek/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=flat-square&logo=typescript&logoColor=007ACC)](https://github.com/developertomek/)
-[![Python](https://img.shields.io/badge/Python-323330?style=flat-square&logo=python&logoColor=007ACC)](https://github.com/developertomek/)
+[![Go](https://img.shields.io/badge/Go-323330?style=flat-square&logo=go&logoColor=00ADD8)](https://github.com/developertomek/)
 ---
 
 ![](https://komarev.com/ghpvc/?username=developertomek)
