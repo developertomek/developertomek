@@ -15,4 +15,16 @@
 [![Go](https://img.shields.io/badge/Go-323330?style=flat-square&logo=go&logoColor=00ADD8)](https://github.com/developertomek/)
 ---
 
+### 🚀 Projects
+
+- [**tsbuddy.dev**](https://tsbuddy.dev) - Master TypeScript through practice
+
+---
+
+### 📊 Competitive Programming & Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/developertomek?theme=dark&font=Montserrat&ext=contest)
+
+---
+
 ![](https://komarev.com/ghpvc/?username=developertomek)
