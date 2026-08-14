@@ -1,16 +1,30 @@
-## Hi there 👋
+## Hi there 👋, I'm Tomek
 
-<!--
-**developertomek/developertomek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-323330?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/developertomek/)
+[![Twitter](https://img.shields.io/badge/Twitter-323330?style=flat-square&logo=x&logoColor=1DA1F2)](https://www.twitter.com/developertomek/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Software Developer
+- 📫 How to reach me: tomekcodes@gmail.com
+
+
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://github.com/developertomek/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-323330?style=flat-square&logo=typescript&logoColor=007ACC)](https://github.com/developertomek/)
+[![Python](https://img.shields.io/badge/Python-323330?style=flat-square&logo=python&logoColor=007ACC)](https://github.com/developertomek/)
+[![Go](https://img.shields.io/badge/Go-323330?style=flat-square&logo=go&logoColor=00ADD8)](https://github.com/developertomek/)
+---
+
+### 🚀 Projects
+
+- [**tsbuddy.dev**](https://tsbuddy.dev) - Master TypeScript through practice
+
+---
+
+### 📊 Competitive Programming & Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/developertomek?theme=dark&font=Montserrat&ext=contest)
+
+---
+
+![](https://komarev.com/ghpvc/?username=developertomek)
